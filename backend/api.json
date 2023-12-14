@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "algebraic-craft-407715",
+  "private_key_id": "e2f7b483dc19f7636d6c47ccb6c6d2eb0886f4a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+AvOFROlJeY0Q\nhe3rtGnEPCnSUsEZPsxeI6Ev+8fSE/g/lMlRbxk1WtLQ73oduGC5LdehyGje7cQp\nUDpezmqGzvFyqXjB8PmK3dCX27g2+Jn8s4ivls41WhMZyy5vY00Ks6Vx3YXmxN3s\nCk/F8fAY0B/JtfV0LKl55CxSVlvSiAEhBMHaxl9zlu30MncSx4uo0au3rLI4sq/X\nvOtYI4LLSO4Fw3F52H4xXSah1DWPxRNhpdQVbdGsx6uzr8reY8XguUPxWkqCFwaE\n/VjYTH9Z8gH39fA2kV1YA2Sg3+qaHGkClGh7CCLBsDO85mwWhlG8JKiRpfgeWmAT\ns0xDZzYvAgMBAAECggEAFEnRDLrQmgAjjXnExLUifJ8xQVGFaBeqJKcd7+ICHQP1\nhCceiSvD/6FvVHstiSeFvwq5Cn+RSwm3jJ28uHYb2RcW9XeeUD8AYNEnE6qUnzH+\nPIWYTlSw4fDN4fmC6hvVPxOdfRdP09XTcv+gMvI5VmeVQqluHaB4hsOpQ9q6uojh\nl3+2XgNwIu+sUuH462Ju/4qM0RZ/IUvzjeoXc+ANybAMItsV6sjzKw+dkREb7m+0\n7EaQXFQD4Z/rVc55rziq4jk65sSX/IOMHDz1siCwE2ugy7ME6uDT4Pd+zxk7BVGG\nlkJ7p2eFGAL66kXBxpG1o4RvscQQEMKu50ek3PLuqQKBgQD7chtI2ElsZ+2ynS4p\nmWg5ygN+kgNQxgUT9iCg/AOZDSZkNaB7IC6CO01H9e5PxZCv6Zx2jtE80KrLZk+n\nPuUigHtBx8WvkAB4iACFwQSF9h1uNnwQluHyvr5D9sEiT9IhIS9/6rt7+RkTxBfp\nT25kjV2enFqLXpM+7HRN98p7KwKBgQDBc/0yN97nFMofhzki+auehrEj55q3AA8G\nPBtheEBKKYaslU1PYAjPiTvO5COQwwLK2tfkqFDYgQCilWEJKObvK0PVNqKKWE6/\npvoYbQgEwFY4vGXQuc2VF44h39wyIYQZO2Mn1UPwRdZ3TMpQbT0QPvT3zii2jpUC\nkhx3Ij5fDQKBgCX+rQ7J1/ZwkeNuit4wVyZ8VyDWEXgwI+5LP8zzp9uFuCpmTBSu\n3ThCm7/m8pbNRLrAMytbE1T8NwK7OAgOofMftQBQnpeTy+5qpqGPdA6GDRZtVzvu\ngL/8gKWmcLKtmxP0fsf2gVQPZPGurOpNXWIGVoI0IB51MQzOEBkD+223AoGATPi1\nmbGZQyCGe5z2IvBsVJsLCFoyuPWRBM4Npu6NxfRX3XtaU2bGmqzj2yHy9Lpi9gu1\nMwm1gS9y7T26akaX/Dmet8sRSTJxwtfRUr6vHhTZOaHccPw8zEGfD+NeXaPwR4nV\nnhfA/G0NNFKdfPq5/SjPl3mzwU9iAq/YG57IalECgYEAomkh/CBxVwxXz1tDtD4x\nYwOwk6WEjIAP/l5sLK/s2LxFEZgFYdw+k5CjNCL+IEcl+iip8NY2+6bMp95+Bkvj\nNqQtj2HG7qdFlN0c08YWYFh4JUZwZqcpTBx2b78w/yGV630K7MGt4zoq5CDQ6k3d\nJFA0CuAl/FsSCLjxmmORY5o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pdfmaster@algebraic-craft-407715.iam.gserviceaccount.com",
+  "client_id": "101973057822298629790",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pdfmaster%40algebraic-craft-407715.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

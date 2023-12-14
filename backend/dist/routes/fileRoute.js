@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const multer_1 = require("../utils/multer");
+const fileController_1 = require("../controllers/fileController");
+const fileRoutes = (0, express_1.Router)();
+fileRoutes.post("/upload/:userId", multer_1.upload.single("file"), fileController_1.uploadFileController);
+fileRoutes.post("/create/:userId/:fileId", multer_1.upload.single("file"), fileController_1.createFile);
+fileRoutes.get("/getfile/:userId/:fileId", fileController_1.getFile);
+fileRoutes.get("/getallfiles/:userId", fileController_1.getallfiles);
+exports.default = fileRoutes;

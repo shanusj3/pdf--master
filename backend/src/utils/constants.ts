@@ -1,0 +1,1 @@
+export const COOKI_NAME="auth_token"
